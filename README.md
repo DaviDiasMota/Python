@@ -1,2 +1,2 @@
 # Python
-Estudos do curso de Python do Senai
+Meus estudos do curso de Python do Senai.
