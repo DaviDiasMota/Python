@@ -22,3 +22,7 @@ lista_mista = [1, "dois", 3.0, True]
 
 for i in range(0, 4):
     print(lista_mista[i])
+    
+nomes.sort()
+
+print(nomes)
